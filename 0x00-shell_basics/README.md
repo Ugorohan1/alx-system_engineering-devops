@@ -21,9 +21,6 @@
 15. 14-copy_html - this script will copies all the HTML files from the current working directory to the parent of the working 
     directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in 
     the parent of the working directory.
-    file_0.html
     -rw-r--r-- 1 root root 12 Jun 23 06:20 file_0.html
-    file_1.html
     -rw-r--r-- 1 root root 12 Jun 23 06:26 file_1.html
-    file_2.html
     -rw-r--r-- 1 root root 27 Jun 23 06:30 file_2.html
