@@ -22,3 +22,4 @@
     directory.
     one simple file ls -l file_0.html
     -rw-r--r-- 1 root root 12 Jun 23 06:20 file_0.html
+16. 103-commas - this script arranges the files in comma 
