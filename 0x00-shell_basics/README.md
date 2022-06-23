@@ -12,4 +12,5 @@
    -rwxr--r-- 1 root root   16 Jun 22 07:33 0-current_working_directory                                                             -rwxr--r-- 1 root root   15 Jun 22 07:49 1-listit                                                                                -rwxr--r-- 1 root root   21 Jun 22 08:54 2-bring_me_home                                                                         -rwxr--r-- 1 root root   18 Jun 22 09:10 3-listfiles                                                                             -rwxr--r-- 1 root root   19 Jun 22 14:13 4-listmorefiles                                                                         -rwxr--r-- 1 root root   29 Jun 22 15:38 5-listfilesdigitonly                                                                    -rw-r--r-- 1 root root 2285 Jun 22 14:27 README.md
 7. 6-firstdirectorythis script will creates a directory named my_first_directory in the /tmp/ directory
 8. 7-movethatfile this script will Move the file betty from /tmp/ to /tmp/my_first_directory
-9. 8-firstdelete this script will Delete the file betty 
+9. 8-firstdelete this script will Delete the file betty
+10. 9-firstdirdeletion - Delete the directory my_first_directory that is in the /tmp directory 
