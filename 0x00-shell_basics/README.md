@@ -13,4 +13,5 @@
 7. 6-firstdirectorythis script will creates a directory named my_first_directory in the /tmp/ directory
 8. 7-movethatfile this script will Move the file betty from /tmp/ to /tmp/my_first_directory
 9. 8-firstdelete this script will Delete the file betty
-10. 9-firstdirdeletion - Delete the directory my_first_directory that is in the /tmp directory 
+10. 9-firstdirdeletion - Delete the directory my_first_directory that is in the /tmp directory
+11. 10-back - this script will take you to the previous working directory 
