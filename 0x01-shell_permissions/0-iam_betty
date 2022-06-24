@@ -1,2 +1,2 @@
-#!bib.a
+#!/bin/bash
 su - betty
