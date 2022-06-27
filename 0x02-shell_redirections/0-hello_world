@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "hello world" 
+#!/bin/basha
+echo "hello world\n" 
