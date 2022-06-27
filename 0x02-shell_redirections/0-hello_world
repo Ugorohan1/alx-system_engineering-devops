@@ -1,2 +1,2 @@
 #!/bin/basha
-echo "hello world\n" 
+echo -e 'hello \nworld' 
